@@ -1,0 +1,14 @@
+site_name: MkDocs Testing
+nav: 
+  - Home: index.md
+  - Modulos:
+    - Programació: modulos/programacion/programacion.md
+    - Bases de datos: modulos/bases_de_datos/bases_de_datos.md
+    - Entorns de desenvolupament: modulos/entornos/entornos.md
+    - Anglés: modulos/ingles/ingles.md
+    - Llenguatjes de marques: modulos/lenguajes_marcas/lenguajes_marcas.md
+    - Sistemes informàtics: modulos/sistemas/sistemas.md
+
+theme:
+  name: 'readthedocs'
+docs_dir: docs
